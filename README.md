@@ -3,7 +3,7 @@
 Bem-vindo ao repositório **Com Domínio Digital 4.0**! 🚀 Aqui você encontrará materiais, projetos e atividades relacionadas ao programa Com Domínio Digital 4.0, focado em desenvolvimento web, tecnologia e inovação.
 
 ## 📌 Sobre o Projeto
-O **Com Domínio Digital 4.0** é um programa de formação voltado para capacitação em tecnologia, abrangendo conceitos fundamentais e basicos de Python, java e banco de dados, .
+ O Com Domínio Digital 4.0 é um programa de formação que capacita profissionais para o mercado digital, combinando conhecimentos técnicos e desenvolvimento de soft skills essenciais. O curso abrange desde conceitos fundamentais até noções práticas de Python, Java e banco de dados, proporcionando uma base sólida em tecnologia. Além disso, foca no aprimoramento de habilidades interpessoais, como comunicação, trabalho em equipe, resolução de problemas e adaptabilidade, preparando os participantes para os desafios do mundo digital de forma completa e estratégica..
 
 ## 🚀 Tecnologias Utilizadas
 Este repositório contém códigos e atividades utilizando as seguintes tecnologias:
